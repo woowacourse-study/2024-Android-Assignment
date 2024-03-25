@@ -2,8 +2,10 @@
 우아한테크코스 6기 안드로이드 비공식 숙제 스터디
 
 ## 프로젝트 구조
-`레벨/미션/주제` 의 양식을 따릅니다.
-(ex. 레벨1/오목/자바-빈-패턴)
+`레벨/분야/주제` 의 양식을 따릅니다.
+(ex. leve1/OOP/자바-빈-패턴, leve1/Test/test-fixture)
+
+https://techcourse.woowahan.com/s/Zjqb3Sa1/ls/YEiaej2I
 
 ## 파일 제목
 닉네임의 양식을 따릅니다.
