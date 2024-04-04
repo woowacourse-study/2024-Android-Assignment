@@ -32,7 +32,7 @@ TDD를 사용하면 코드 품질을 높이고 버그를 최소화할 수 있다
 
 ### TDD 생명주기
 
-![alt text](TDD_Global_Lifecycle.png)
+![TDD_Global_Lifecycle](https://github.com/woowacourse-study/2024-Android-Assignment/assets/159797292/f1844d0f-06f4-4057-a3e0-9a4491f54772)
 
 --- 코드 기반 테스트
 
